@@ -1,4 +1,4 @@
-25215297059073988
+25144430436892701
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58148,27 +58148,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-EEVFK2A680Q
-CAP_EEFK_H13_PAN
-
-EEV-FK2A680Q 
-0
-2
-2
-EEVFK2A680Q
-CAP_EEFK_H13_PAN-L
-
-EEV-FK2A680Q 
-0
-2
-2
-EEVFK2A680Q
-CAP_EEFK_H13_PAN-M
-
-EEV-FK2A680Q 
-0
-2
-2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -65583,13 +65562,6 @@ LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B
 4
 4
 LED_SMD
-LED-SMD_4P_SK6812D-EC3210R
-
-
-0
-4
-4
-LED_SMD
 LED-SMD_5P-L3.2-W1.4_TX1813Y5
 
 
@@ -66793,27 +66765,6 @@ Yellow 5381 Series LED
 0
 2
 2
-LT8356IUDCM_1_WPBF
-UDCM_05-08-1793_ADI
-
-LT8356IUDCM-1-WPBF 
-0
-18
-18
-LT8356IUDCM_1_WPBF
-UDCM_05-08-1793_ADI-L
-
-LT8356IUDCM-1-WPBF 
-0
-18
-18
-LT8356IUDCM_1_WPBF
-UDCM_05-08-1793_ADI-M
-
-LT8356IUDCM-1-WPBF 
-0
-18
-18
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -92868,27 +92819,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SMD_Resistor_4527
-4527-case-code
-
-
-0
-2
-2
-SRP1265A-100M
-IND_SRP1265A-100M
-
-
-0
-2
-2
-SW4_1825910-I_TEC
-SW4_1825910-I_TEC
-
-3-1825910-5 
-0
-4
-4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -94562,48 +94492,6 @@ Logo WEEE
 0
 0
 0
-TPS92690Q1
-PWP0016A_L
-
-TPS92690Q1PWP/NOPB 
-0
-17
-17
-TPS92690Q1
-PWP0016A_M
-
-TPS92690Q1PWP/NOPB 
-0
-17
-17
-TPS92690Q1
-PWP0016A_N_TEX
-
-TPS92690Q1PWP/NOPB 
-0
-17
-17
-TPS922054DMTR
-VSON14_DMT_TEX
-
-TPS922054DMTR 
-0
-15
-15
-TPS922054DMTR
-VSON14_DMT_TEX-L
-
-TPS922054DMTR 
-0
-15
-15
-TPS922054DMTR
-VSON14_DMT_TEX-M
-
-TPS922054DMTR 
-0
-15
-15
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -101279,181 +101167,6 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
-0
-2
-2
-WCH
-ANT-F-1-2.4G-0.2MM-FPC-WCH
-2.4Ghz FPC Antenna. Design provided by WCH.  Website: wch-ic.com 
-Antenna, WCH, 
-0
-2
-2
-WCH
-ANT-F-1-2.4G-0.4MM-FR4-WCH
-2.4GHz PCB antenna for 0.4mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH,
-0
-2
-2
-WCH
-ANT-F-1-2.4G-0.6MM-FR4-WCH
-2.4GHz PCB antenna for 0.6mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-1-2.4G-0.8MM-FR4-WCH
-2.4GHz PCB antenna for 0.8mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-1-2.4G-1.0MM-FR4-WCH
-2.4GHz PCB antenna for 1 mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-1-2.4G-1.2MM-FR4-WCH
-2.4GHz PCB antenna for 1.2mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-1-2.4G-1.6MM-FR4-WCH
-2.4GHz PCB antenna for 1.6mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-1-2.4G-2.0MM-FR4-WCH
-2.4GHz PCB antenna for 2 mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-1-2.4G-2.4MM-FR4-WCH
-2.4GHz PCB antenna for 2.4mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-2-2.4G-0.8MM-FR4-WCH
-2.4GHz PCB antenna for 0.8mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-2-2.4G-1.2MM-FR4-WCH
-2.4GHz PCB antenna for 1.2mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WCH
-ANT-F-3-2.4G-1.6MM-FR4-WCH
-2.4GHz PCB antenna for 1.6mm FR4 boards. Design provided by WCH. Website: wch-ic.com
-Antenna, WCH
-0
-2
-2
-WL-SMSW_0603_ROUND
-LEDC1608X35N
-
-
-0
-2
-2
-WL-SMSW_0603_ROUND
-WL-SMSW_0603_ROUND
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 0603 Round,1.6X1.0X0.6mm(LXWXH)
-
-0
-3
-3
-WL-SMSW_0603_ROUND
-WL-SMSW_1204
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 1204,3.2X1.5X1mm(LXWXH)
-
-0
-3
-3
-WL-SMSW_0603_ROUND
-XL-1606UWC
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 0603 Round,1.6X1.0X0.6mm(LXWXH)
-
-0
-2
-2
-power_inductors
-MTP2915-220MC
-
-
-0
-3
-3
-side-fire-led
-LEDC1608X35N
-
-
-0
-2
-2
-side-fire-led
-WL-SMSW_0603_ROUND
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 0603 Round,1.6X1.0X0.6mm(LXWXH)
-
-0
-3
-3
-side-fire-led
-WL-SMSW_1204
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 1204,3.2X1.5X1mm(LXWXH)
-
-0
-3
-3
-side-fire-led
-XL-1606UWC
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 0603 Round,1.6X1.0X0.6mm(LXWXH)
-
-0
-2
-2
-side-fire-led-big
-LEDC1608X35N
-
-
-0
-2
-2
-side-fire-led-big
-WL-SMSW_0603_ROUND
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 0603 Round,1.6X1.0X0.6mm(LXWXH)
-
-0
-3
-3
-side-fire-led-big
-WL-SMSW_1204
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 1204,3.2X1.5X1mm(LXWXH)
-
-0
-3
-3
-side-fire-led-big
-XL-1606UWC
-<B>WL-SMSW</B><BR> SMT Mono-color Side View Waterclear ,Size : 0603 Round,1.6X1.0X0.6mm(LXWXH)
-
 0
 2
 2
